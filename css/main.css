@@ -1,0 +1,43 @@
+tr{
+	width: 100%;
+}
+td{
+	float: left;
+	font-size: 30px;
+}
+tr:nth-child(odd){
+	background-color: #dfdfdf;
+}
+tr:nth-child(1){
+	height: 100px;
+}
+td:nth-child(1){
+	width: 10%;
+}
+td:nth-child(2){
+	width: 40%;
+}
+td:nth-child(3){
+	width: 30%;
+}
+td:nth-child(4){
+	width: 15%;
+}
+table{
+	float: left;
+	width: 70%;
+}
+select{
+	width: 80%;
+}
+.TiJiao_LeiXing{
+	width: 40px;
+}
+.TiJiao_FenLei{
+	width: 80px;
+}
+p{
+	width: 15%;
+	float: left;
+	font-size: 30px;
+}
